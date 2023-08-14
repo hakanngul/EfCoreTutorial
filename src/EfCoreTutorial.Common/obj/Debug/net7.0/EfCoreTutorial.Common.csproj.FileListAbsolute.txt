@@ -1,0 +1,12 @@
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/bin/Debug/net7.0/EfCoreTutorial.Common.deps.json
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/bin/Debug/net7.0/EfCoreTutorial.Common.dll
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/bin/Debug/net7.0/EfCoreTutorial.Common.pdb
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/obj/Debug/net7.0/EfCoreTutorial.Common.csproj.AssemblyReference.cache
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/obj/Debug/net7.0/EfCoreTutorial.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/obj/Debug/net7.0/EfCoreTutorial.Common.AssemblyInfoInputs.cache
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/obj/Debug/net7.0/EfCoreTutorial.Common.AssemblyInfo.cs
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/obj/Debug/net7.0/EfCoreTutorial.Common.csproj.CoreCompileInputs.cache
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/obj/Debug/net7.0/EfCoreTutorial.Common.dll
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/obj/Debug/net7.0/refint/EfCoreTutorial.Common.dll
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/obj/Debug/net7.0/EfCoreTutorial.Common.pdb
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Common/obj/Debug/net7.0/ref/EfCoreTutorial.Common.dll

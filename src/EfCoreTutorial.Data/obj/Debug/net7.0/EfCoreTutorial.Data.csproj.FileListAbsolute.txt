@@ -1,0 +1,17 @@
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/bin/Debug/net7.0/EfCoreTutorial.Data.deps.json
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/bin/Debug/net7.0/EfCoreTutorial.Data.runtimeconfig.json
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/bin/Debug/net7.0/EfCoreTutorial.Data.dll
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/bin/Debug/net7.0/EfCoreTutorial.Data.pdb
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/obj/Debug/net7.0/EfCoreTutorial.Data.csproj.AssemblyReference.cache
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/obj/Debug/net7.0/EfCoreTutorial.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/obj/Debug/net7.0/EfCoreTutorial.Data.AssemblyInfoInputs.cache
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/obj/Debug/net7.0/EfCoreTutorial.Data.AssemblyInfo.cs
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/obj/Debug/net7.0/EfCoreTutorial.Data.csproj.CoreCompileInputs.cache
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/obj/Debug/net7.0/EfCoreTutorial.Data.dll
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/obj/Debug/net7.0/refint/EfCoreTutorial.Data.dll
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/obj/Debug/net7.0/EfCoreTutorial.Data.pdb
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/obj/Debug/net7.0/EfCoreTutorial.Data.genruntimeconfig.cache
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/obj/Debug/net7.0/ref/EfCoreTutorial.Data.dll
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/bin/Debug/net7.0/EfCoreTutorial.Common.dll
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/bin/Debug/net7.0/EfCoreTutorial.Common.pdb
+/Users/hakangul/Projects/DotNetApps/EfCoreTutorial/src/EfCoreTutorial.Data/obj/Debug/net7.0/EfCoreTutorial.Data.csproj.CopyComplete

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C065F047-754A-4309-B6FF-2357ED3B0405}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A535BADF-D8BC-46BE-B4EF-D5C7BE524712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreTutorial.WebApi", "src\EfCoreTutorial.WebApi\EfCoreTutorial.WebApi.csproj", "{6770ABC4-C375-43D3-92E8-FE3642EC9628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreTutorial.Data", "src\EfCoreTutorial.Data\EfCoreTutorial.Data.csproj", "{965D525C-043A-49B5-B7D1-4858DD814438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreTutorial.Common", "src\EfCoreTutorial.Common\EfCoreTutorial.Common.csproj", "{ED55C2A1-479B-4A2E-9084-716D93AFD500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6770ABC4-C375-43D3-92E8-FE3642EC9628} = {C065F047-754A-4309-B6FF-2357ED3B0405}
+		{965D525C-043A-49B5-B7D1-4858DD814438} = {C065F047-754A-4309-B6FF-2357ED3B0405}
+		{ED55C2A1-479B-4A2E-9084-716D93AFD500} = {C065F047-754A-4309-B6FF-2357ED3B0405}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6770ABC4-C375-43D3-92E8-FE3642EC9628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6770ABC4-C375-43D3-92E8-FE3642EC9628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6770ABC4-C375-43D3-92E8-FE3642EC9628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6770ABC4-C375-43D3-92E8-FE3642EC9628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965D525C-043A-49B5-B7D1-4858DD814438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965D525C-043A-49B5-B7D1-4858DD814438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965D525C-043A-49B5-B7D1-4858DD814438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965D525C-043A-49B5-B7D1-4858DD814438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED55C2A1-479B-4A2E-9084-716D93AFD500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED55C2A1-479B-4A2E-9084-716D93AFD500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED55C2A1-479B-4A2E-9084-716D93AFD500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED55C2A1-479B-4A2E-9084-716D93AFD500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vr2021SP853ATAlrTD9b3m82AqBbKldih7APV3rjRV4=",
+  "Source": "EfCoreTutorial.WebApi",
+  "BasePath": "_content/EfCoreTutorial.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
