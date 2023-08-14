@@ -23,8 +23,23 @@ public class StudentController : ControllerBase
     [HttpGet]
     public async Task<IActionResult> Get()
     {
-        var students = await _context.Students.ToListAsync();
-        return Ok(students);
+        StudentFilter filter = new StudentFilter() { FirstName = "Sarah"};
+        var students = _context.Students.AsQueryable();
+        if (!String.IsNullOrEmpty(filter.FirstName))
+        {
+            students = students.Where(i => i.FirstName == filter.FirstName);
+        }
+        if (!String.IsNullOrEmpty(filter.LastName))
+        {
+            students = students.Where(i => i.LastName == filter.LastName);
+        }
+        if (filter.Number.HasValue)
+        {
+            students = students.Where(i => i.Number == filter.Number);
+        }
+
+        var list = await students.ToListAsync();
+        return Ok();
     }
 
     [HttpPost]
